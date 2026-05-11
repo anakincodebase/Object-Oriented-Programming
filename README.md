@@ -3,7 +3,7 @@
 C++ OOP study materials, including assignments, lecture notes, and Obsidian vault.
 
 ## 📂 Folders
-* **Dr Nauman Recluze Assignments:** Labs 1, 2, 3, and 6.
+* **Dr Nauman Assignments:** Labs 1, 2, 3, and 6.
 * **Notes:** Obsidian Vault and Lecture materials.
 * **Code:** File handling, Linked Lists, Polymorphism, and small tasks.
 * **Books:** Supplementary reference texts.
